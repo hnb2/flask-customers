@@ -1,0 +1,1 @@
+include README.md manage.py requirements.txt customers/**/*.py conf/*cfg tests/**/*
